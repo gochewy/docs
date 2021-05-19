@@ -9,12 +9,12 @@ If you haven't already, install `chewy-cli` to start with Chewy Stack. This CLI 
 CLI tool can help configure the project, start and stop docker containers and also helps you to deploy your project.
 
 ```shell
-npm install @gochewy/chewy-cli
+npm install -g @gochewy/chewy-cli
 ```
 or if you are using `Yarn`
 
 ```shell
-yarn add @gochewy/chewy-cli
+yarn global add @gochewy/chewy-cli
 ```
 To install all modules from Chewy stack, Run
 
