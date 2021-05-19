@@ -8,7 +8,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'gochewy', // Usually your GitHub org/user name.
-  projectName: 'chewy-stack-docs', // Usually your repo name.
+  projectName: 'chewy-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Gochewy',
