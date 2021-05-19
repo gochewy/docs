@@ -3,7 +3,7 @@ module.exports = {
   title: 'Chewy Stack',
   tagline: 'The tagline of my site',
   url: 'https://gochewy.github.io',
-  baseUrl: '/chewy-stack-docs/',
+  baseUrl: '/chewy-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
