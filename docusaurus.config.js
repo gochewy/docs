@@ -2,16 +2,16 @@
 module.exports = {
   title: 'Chewy Stack',
   tagline: 'The tagline of my site',
-  url: 'https://swarnjit.github.io',
-  baseUrl: '/chewy-stack-docs',
+  url: 'https://gochewy.github.io',
+  baseUrl: '/chewy-stack-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'swarnjit', // Usually your GitHub org/user name.
+  organizationName: 'gochewy', // Usually your GitHub org/user name.
   projectName: 'chewy-stack-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Gochewy',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -74,7 +74,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Gochewy, Inc. Built with Docusaurus.`,
     },
   },
   presets: [

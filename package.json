@@ -2,7 +2,7 @@
   "name": "chewy-stack",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://swarnjit.github.io/chewy-stack-docs",
+  "homepage": "https://gochewy.github.io/chewy-docs",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
