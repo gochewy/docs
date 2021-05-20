@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/gochewy/chewy-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -74,7 +74,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Gochewy, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Ephemere Creative Inc.`,
     },
   },
   presets: [
@@ -85,7 +85,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/gochewy/chewy-docs/edit/main/',
         },
         blog: {
           showReadingTime: true,
