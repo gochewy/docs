@@ -10,6 +10,7 @@ module.exports = {
   organizationName: 'gochewy', // Usually your GitHub org/user name.
   projectName: 'chewy-docs', // Usually your repo name.
   themeConfig: {
+    hideableSidebar: true,
     navbar: {
       title: 'Gochewy',
       logo: {

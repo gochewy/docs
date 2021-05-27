@@ -16,19 +16,10 @@ or if you are using `Yarn`
 ```shell
 yarn global add @gochewy/chewy-cli
 ```
-You can start with Chewy Stack using one of the three options available
-```shell
-chewy-cli install all
-or
-chewy-cli install minimal
-or
-chewy-cli install custom
-```
 To install all modules from Chewy stack, Run
 
 ```shell
 chewy-cli install all
 ```
-If you don't want to install all modules then use `custom` argument and answer Yes or No according to your needs.
 
 Congratulations! You've successfully created your first Chewy Stack project.
