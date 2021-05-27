@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Chewy Stack',
-  tagline: 'The tagline of my site',
+  tagline: 'Full fledged projects, in a simple way',
   url: 'https://gochewy.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
