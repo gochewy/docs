@@ -10,7 +10,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Modules',
+      label: 'Components',
       items: [
         {
           type: 'category',
