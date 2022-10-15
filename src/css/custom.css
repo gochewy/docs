@@ -23,3 +23,16 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+
+
+@import "./webfonts/geliat-regular.css";
+@import "./webfonts/geliat-alt-extrabold.css";
+
+body {
+  font-family: 'Geliat-Regular', Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, strong {
+  font-family: 'Geliat-AltExtraBold';
+}

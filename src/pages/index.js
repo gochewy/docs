@@ -8,30 +8,36 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to start with',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Quick & Easy',
+    imageUrl: 'img/illustrations/tooling.png',
     description: (
       <>
-        Chewy is designed from the ground up to be easily installed and
-        used to get your projects up and running quickly.
+        Chewy is being designed from the ground up to be easily installed and
+        used to get your projects up and running quickly. We're building tooling to 
+        make sure anyone can start building ASAP, regardless of where you're at in 
+        your journey as a developer.
       </>
     ),
   },
   {
-    title: 'Choose what you need',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Opinionated',
+    imageUrl: 'img/illustrations/education.png',
     description: (
       <>
-        Chewy lets you choose from the number of tools according to your project needs.
+        Part of the Chewy philosophy is that the Chewy community will make decisions
+        so that individual developers don't have to. We'll do everything we can so there is
+        a "correct" way to do things, so you aren't left with unanswered questions.
       </>
     ),
   },
   {
-    title: 'Built in Authorization',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Scalable',
+    imageUrl: 'img/illustrations/support.png',
     description: (
       <>
-        Authorization is built in along with database,so you dont need to worry about managing user passwords.
+        Chewy's default configuration will make user and team growth as easy to handle as possible. 
+        If you grow bigger than that, we're designing things to make sure it's easy to modify and 
+        extend so you can keep going with as little friction as possible.
       </>
     ),
   },
@@ -57,16 +63,16 @@ export default function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from Chewy Stack`}
+      title={`Welcome to the Chewy Stack`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">Chewy Stack</h1>
-          <p className="hero__subtitle">All project needs in one place</p>
+          <h1 className="hero__title">Welcome to the Chewy Stack</h1>
+          <p className="hero__subtitle">A new kind of opinionated stack to help you build and deploy better products faster.</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
-                'button button--outline button--secondary button--lg',
+                'button button--secondary button--lg',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>

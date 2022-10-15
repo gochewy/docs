@@ -8,14 +8,14 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'gochewy', // Usually your GitHub org/user name.
-  projectName: 'chewy-docs', // Usually your repo name.
+  projectName: 'docs', // Usually your repo name.
   themeConfig: {
     hideableSidebar: true,
     navbar: {
-      title: 'Gochewy',
+      title: 'Chewy Documentation',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Chewy Logo',
+        src: 'img/icon.png',
       },
       items: [
         {
@@ -24,9 +24,13 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/gochewy/chewy-docs',
+          href: 'https://dev.to/gochewy', 
+          label: 'Blog', 
+          position: 'left'
+        },
+        {
+          href: 'https://github.com/gochewy',
           label: 'GitHub',
           position: 'right',
         },
@@ -49,11 +53,11 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.com/invite/dXQ8qUYMVQ',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/gochewyio',
             },
           ],
         },
@@ -62,16 +66,16 @@ module.exports = {
           items: [
             {
               label: 'Blog',
-              to: 'blog',
+              href: 'https://dev.to/gochewy',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/gochewy',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Ephemere Creative Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Ephemere Creative Ltd`,
     },
   },
   presets: [

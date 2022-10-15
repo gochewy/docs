@@ -1,0 +1,27 @@
+/*
+Font: 		Geliat
+Style: 		Regular
+URL: 		https://www.youworkforthem.com/font/T13698/geliat
+Foundry: 	Wahyu & Sani Co.
+Foundry: 	https://www.youworkforthem.com/designer/1352/wahyu-amp-sani-co
+Copyright:	2021 Wahyu & Sani Co. All Rights Reserved.
+Version: 	17
+Created:	February 19, 2021
+License: 	https://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'Geliat-Regular';
+	src: url('geliat-regular.eot');
+	src: url('geliat-regular.eot?#iefix') format('embedded-opentype'),
+             url('geliat-regular.woff2') format('woff2'),
+	     url('geliat-regular.woff') format('woff'),
+	     url('geliat-regular.ttf') format('truetype'),
+	     url('geliat-regular.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
