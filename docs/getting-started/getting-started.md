@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Chewy Stack
-slug: /
+slug: /getting-started/getting-started
 ---
 
 ## Step 1: Installing CLI

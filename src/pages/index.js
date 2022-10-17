@@ -82,6 +82,7 @@ export default function Home() {
         </div>
       </header>
       <main>
+        <div className={styles.featuresWrapper}>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
@@ -93,6 +94,7 @@ export default function Home() {
             </div>
           </section>
         )}
+        </div>
       </main>
     </Layout>
   );

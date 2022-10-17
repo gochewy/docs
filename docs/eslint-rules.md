@@ -1,3 +1,0 @@
----
-title: ESlint and Husky
----
