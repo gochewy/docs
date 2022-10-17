@@ -18,15 +18,15 @@ So let's go ahead and figure out if it's right for *you*.
 
 ## What is the Chewy Stack?
 
-_*The Chewy Stack is a [deep stack framework](./overview/deep-stack-framework) which aims to get developer from zero to scalable product faster than anything else out there*_
+_*The Chewy Stack is a [deep stack framework](./philosophy/deep-stack-framework.md) which aims to get developer from zero to scalable product faster than anything else out there*_
 
 If you've made it here, you've probably come across other dev stacks like LAMP, MERN, MEAN, or even ones without funky acronyms, like Ruby + Rails + Postgres (RRP?). Chewy is similar, but with two key differences:
 
 1. ### The Chewy Stack uses a micro-service architecture
-The Chewy Stack aims to provide the advantages of microservices, while maintaining the developer-experience simplicity of a monolith. [Read more](./overview/microservices)
+The Chewy Stack aims to provide the advantages of microservices, while maintaining the developer-experience simplicity of a monolith. [Read more](./philosophy/microservices.md)
 
 2. ### We're making up a new word. We're calling the Chewy Stack a "*deep stack framework*." 
-Full-stack frameworks provide structure to your application, but don't do much around deployment. A "deep stack framework" is one in which the infrastructure is explicitly *part* of the framework. [Read more](./overview/deep-stack-framework)
+Full-stack frameworks provide structure to your application, but don't do much around deployment. A "deep stack framework" is one in which the infrastructure is explicitly *part* of the framework. [Read more](./philosophy/deep-stack-framework.md)
 
 
 ## Can the Chewy Stack help me?

@@ -1,6 +1,6 @@
 ---
 title: Microservices
-slug: /overview/microservices
+slug: /philosophy/microservices
 ---
 
 We've experienced building products using existing frameworks built around monolithic stacks and honestly? We love them. But we've also felt the pain of splitting things up as things grow: we've felt the pain of migrating from Django or Laravel auth systems to Auth0, or Keycloak, etc. 
