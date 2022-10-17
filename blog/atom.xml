@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gochewy.github.io/blog</id>
+    <title>Chewy Stack Blog</title>
+    <updated>2021-05-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gochewy.github.io/blog"/>
+    <subtitle>Chewy Stack Blog</subtitle>
+    <icon>https://gochewy.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Chewy Stack]]></title>
+        <id>welcome</id>
+        <link href="https://gochewy.github.io/blog/welcome"/>
+        <updated>2021-05-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Chewy Stack! We are working on Chewy to bring simplification to building complete projects that involves]]></summary>
+    </entry>
+</feed>
