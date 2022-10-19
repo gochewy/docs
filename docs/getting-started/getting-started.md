@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Chewy Stack
+title: Getting Started
 slug: /getting-started/getting-started
 ---
 

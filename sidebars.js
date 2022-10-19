@@ -3,6 +3,13 @@ module.exports = {
     'introduction',
     {
       type: 'category',
+      label: 'Getting Started',
+      items: [
+        'getting-started/getting-started',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Philosophy',
       items: [
         'philosophy/microservices',
