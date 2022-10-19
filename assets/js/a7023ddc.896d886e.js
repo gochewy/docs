@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchewy_stack=self.webpackChunkchewy_stack||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"Chewy","permalink":"/blog/tags/chewy","count":1},{"label":"welcome","permalink":"/blog/tags/welcome","count":1}]')}}]);

@@ -13,5 +13,16 @@
         <link href="https://gochewy.github.io/blog/welcome"/>
         <updated>2021-05-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to Chewy Stack! We are working on Chewy to bring simplification to building complete projects that involves]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to Chewy Stack! We are working on Chewy to bring simplification to building complete projects that involves
+website, databases, authorization and mobile application.
+Chewy is in early stage right now, but we are working hard to bring a final version as soon as possible. Join our
+newsletter to keep receiving updates about new features and updates to the Chewy stack.</p><p>Documentation will be complete before we release version of Chewy Stack. Documentation will be updated on regular basis
+with new instructions for new features and updates. </p><p>Thank you for reading and trying Chewy Stack.</p>]]></content>
+        <author>
+            <name>Swarnjit S Chahal</name>
+            <uri>https://github.com/swarnjit</uri>
+        </author>
+        <category label="Chewy" term="Chewy"/>
+        <category label="welcome" term="welcome"/>
     </entry>
 </feed>
