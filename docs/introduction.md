@@ -9,7 +9,7 @@ In this document we'll cover the following:
 
 1. [What is the Chewy Stack?](#what-is-the-chewy-stack)
 2. [Can the Chewy Stack help me?](#can-the-chewy-stack-help-me)
-3. [Why should I choose the Chewy Stack?](#why-should-i-choose-the-chewy-stack)
+3. [Why should I choose the Chewy Stack?](#why-should-i-choose-the-chewy-stack-over-the-alternatives)
 4. [Give me a sense of how the Chewy Stack works.](#give-me-a-sense-of-how-the-chewy-stack-works)
 
 The idea is to help you determine if the Chewy Stack is a good fit for you and why you might want to choose the Chewy Stack over other comparable tools. We believe the Chewy Stack can help a wide variety of developers to get projects off the ground, but we acknowledge that it's not going to be everyone's cup of tea. ☕️ 
