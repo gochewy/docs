@@ -29,7 +29,7 @@ Chewy is a bit like the stacks, in that it combines existing open source technol
 The Chewy Stack aims to provide the advantages of microservices, while maintaining the simplicity of a monolith. [Read more](./philosophy/microservices.md)
 
 2. ### We're making up a new word. We're calling the Chewy Stack a "*deep stack framework*." 
-Full-stack frameworks provide structure to your application, but don't do much around deployment. A "deep stack framework" is one in which the infrastructure is explicitly *part* of the framework. [Read more](./philosophy/deep-stack-framework.md)
+Full-stack frameworks provide structure and tooling around your frontend and backend. A "deep stack framework" goes one step deeper: the infrastructure you deploy to is explicitly *part* of the framework. [Read more](./philosophy/deep-stack-framework.md)
 
 
 ## Can the Chewy Stack help me?
