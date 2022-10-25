@@ -73,4 +73,4 @@ chewy-cli create provider digitalocean --environment production --token <YOUR_DO
 chewy-cli deploy --environment production
 ```
 
-At this point, as long as your name servers are properly configured, you would have a fully functional app, ready at `app.mycoolproduct.io`. It would have certs configured and would autoscale to some extent. 
+At this point, as long as your name servers are properly configured, you would have a fully functional app, ready at `app.mycoolproduct.io`. It would have certs configured and would autoscale (to some extent!)
