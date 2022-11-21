@@ -10,10 +10,11 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Philosophy',
+      label: 'Concepts',
       items: [
-        'philosophy/microservices',
-        'philosophy/deep-stack-framework'
+        'concepts/microservices',
+        'concepts/deep-stack-framework',
+        'concepts/components',
       ],
     },
   ]
