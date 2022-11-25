@@ -25,11 +25,19 @@ If you've made it here, you've probably come across other stacks like [LAMP](htt
 
 Chewy is a bit like the stacks, in that it combines existing open source technologies. It's like the frameworks, in that it provides a structure to address high level concerns from data management all the way to rendering a frontend. It's like a "Backend as a Service" in that the tooling it provides out of the box makes it _really easy_ to define, organize, and access data. These are the things that make Chewy really different:
 
-1. ### The Chewy Stack uses a micro-service architecture
-The Chewy Stack aims to provide the advantages of microservices, while maintaining the simplicity of a monolith. [Read more](./concepts/microservices.md)
+### A micro-service architecture
+Monoliths are easier to get started with, but can be limiting down the line. Microservices can be difficult to get started with and manage, but are easier to deal with down the line. The Chewy Stack aims to provide the advantages of microservices, while maintaining the simplicity of a monolith. [Read more](./concepts/microservices.md)
 
-2. ### We're making up a new word. We're calling the Chewy Stack a "*deep stack framework*." 
-Full-stack frameworks provide structure and tooling around your frontend and backend. A "deep stack framework" goes one step deeper: the infrastructure you deploy to is explicitly *part* of the framework. [Read more](./concepts/deep-stack-framework.md)
+:::info
+Micro-services aren't for everyone! But there are many projects that would benefit from them if they were easier to manage and deploy. The Chewy Stack does that for you.
+:::
+
+### Deeper than full-stack
+We're making up a new word: "Deep Stack Framework." Traditional full stack frameworks provide structure and tooling around your frontend and backend. A "deep stack framework" goes one step deeper: the infrastructure you deploy to is explicitly *part* of the framework. [Read more](./concepts/deep-stack-framework.md)
+
+:::info
+Infrastructure is complicated! Many tools offer the "freedom to just develop, and not think about infrastructure." But that promise often falls short because the platforms don't know quite what to expect from the code and the code doesn't know quite what to expect from the infrastructure. The Chewy Stack solves this by making the infastructure explicitly tied to the code.
+:::
 
 
 ## Can the Chewy Stack help me?
