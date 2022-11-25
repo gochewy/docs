@@ -1,6 +1,4 @@
 ---
-title: Contribute to the project
-slug: /contribute
+title: Contributing
 ---
 
-## Contributing to the project

@@ -1,6 +1,7 @@
 ---
 title: Hasura
 ---
+
 ## Why Hasura?
 
 We use Hasura to Auto-generate GraphQL APIs for our data in Chewy Stack. Hasura Create reusable APIs 

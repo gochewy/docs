@@ -1,5 +1,5 @@
 ---
-title: Appsmith Migrations
+title: Appsmith
 ---
 
 ## Appsmith
