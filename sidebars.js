@@ -15,6 +15,7 @@ module.exports = {
         'concepts/deep-stack-framework',
         'concepts/microservices',
         'concepts/components',
+        'concepts/core-services',
       ],
     },
   ]
