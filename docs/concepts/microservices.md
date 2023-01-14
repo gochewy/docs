@@ -9,4 +9,4 @@ We've built products using existing frameworks designed around monolithic stacks
 The Chewy Stack aims to provide the advantages of microservices, while maintaining the developer-experience simplicity of a monolith.
 :::
 
-The stack includes pre-configured environments to write your own frontend/backend code and manages a few additional open source services for things like auth, and more. It also includes the necessary tooling to build and deploy every service to your own infrastructure while keeping everything coordinated.
+The stack includes pre-configured environments to write your own frontend/backend code and manages a few additional open source services for things like auth, and more (see [Core Services](./core-services)). It also includes the necessary tooling to build and deploy every service to your own infrastructure while keeping everything coordinated.

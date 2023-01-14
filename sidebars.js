@@ -11,6 +11,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Concepts',
+      collapsed: false,
       items: [
         'concepts/deep-stack-framework',
         'concepts/microservices',

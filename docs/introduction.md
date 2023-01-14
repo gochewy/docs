@@ -19,21 +19,21 @@ So let's go ahead and figure out if it's right for *you*.
 
 ## What is the Chewy Stack?
 
-_*The Chewy Stack is a [deep stack framework](./concepts/deep-stack-framework.md) which aims to get developer from zero to scalable product faster than anything else out there*_
+_*The Chewy Stack is a [deep stack framework](./concepts/deep-stack-framework) which aims to get developer from zero to scalable product faster than anything else out there*_
 
 If you've made it here, you've probably come across other stacks like [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)), [MERN](https://www.mongodb.com/mern-stack), or [MEAN](https://www.mongodb.com/mean-stack). You've probably also come across frameworks like [Django](https://www.djangoproject.com/), [Rails](https://rubyonrails.org/), or [Laravel](https://laravel.com/). You may also have come across "Backend as a Service" products like [Supabase](https://supabase.com/), [AppWrite](https://appwrite.io/), or [Parse](https://parseplatform.org/). 
 
 Chewy is a bit like the stacks, in that it combines existing open source technologies. It's like the frameworks, in that it provides a structure to address high level concerns from data management all the way to rendering a frontend. It's like a "Backend as a Service" in that the tooling it provides out of the box makes it _really easy_ to define, organize, and access data. These are the things that make Chewy really different:
 
 ### A micro-service architecture
-Monoliths are easier to get started with, but can be limiting down the line. Microservices can be difficult to get started with and manage, but are easier to deal with down the line. The Chewy Stack aims to provide the advantages of microservices, while maintaining the simplicity of a monolith. [Read more](./concepts/microservices.md)
+Monoliths are easier to get started with, but can be limiting down the line. Microservices can be difficult to get started with and manage, but are easier to deal with down the line. The Chewy Stack aims to provide the advantages of microservices, while maintaining the simplicity of a monolith. [Read more](./concepts/microservices)
 
 :::info
 Micro-services aren't for everyone! But there are many projects that would benefit from them if they were easier to manage and deploy. The Chewy Stack does that for you.
 :::
 
 ### Deeper than full-stack
-We're making up a new word: "Deep Stack Framework." Traditional full stack frameworks provide structure and tooling around your frontend and backend. A "deep stack framework" goes one step deeper: the infrastructure you deploy to is explicitly *part* of the framework. [Read more](./concepts/deep-stack-framework.md)
+We're making up a new word: "Deep Stack Framework." Traditional full stack frameworks provide structure and tooling around your frontend and backend. A "deep stack framework" goes one step deeper: the infrastructure you deploy to is explicitly *part* of the framework. [Read more](./concepts/deep-stack-framework)
 
 :::info
 Infrastructure is complicated! Many tools offer the "freedom to just develop, and not think about infrastructure." But that promise often falls short because the platforms don't know quite what to expect from the code and the code doesn't know quite what to expect from the infrastructure. The Chewy Stack solves this by making the infastructure explicitly tied to the code.
